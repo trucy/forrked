@@ -10,8 +10,12 @@ The theme is live at: http://forrked.com
 
 #Installation
 
-Add a WordPress theme to your site: http://codex.wordpress.org/Using_Themes
+Forrked is a child theme of Twentyten: http://2010dev.wordpress.com/
 
+You need to install both Twentyten and Forrked.
+
+Installing WordPress themes: http://codex.wordpress.org/Using_Themes
+Child themes: http://codex.wordpress.org/Child_Themes
 
 #Author/Contact
 
