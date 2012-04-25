@@ -1,4 +1,4 @@
-![Forrked Screenshot](forrked-screenshot-04-25-2012.jpg)
+![Forrked Screenshot](http://forrked.com/wp-content/themes/forrked/images/forrked-screenshot-04-25-2012.jpg)
 
 #Forrked
 
