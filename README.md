@@ -1,4 +1,4 @@
-![Forrked Screenshot](http://forrked.com/wp-content/themes/forrked/images/forrked-screenshot-04-25-2012.jpg)
+![Forrked Screenshot](https://github.com/trucy/forrked/raw/master/etc/forrked-screenshot-04-25-2012.jpg)
 
 #Forrked
 
@@ -12,16 +12,17 @@ The theme is live at: http://forrked.com
 
 ##Installation
 
-Forrked is a child theme of Twentyten: http://2010dev.wordpress.com/
+Forrked is a child theme of [Twentyten](http://2010dev.wordpress.com/).
 
 You need to install both Twentyten and Forrked.
 
 Installing WordPress themes: http://codex.wordpress.org/Using_Themes
+
 Child themes: http://codex.wordpress.org/Child_Themes
 
 ##Author/Contact
 
-Trucy Phan trucy.phan@gmail.com
+[Trucy Phan](trucy.phan@gmail.com)
 
 
 ##License
